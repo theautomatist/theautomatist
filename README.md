@@ -13,6 +13,11 @@ B.Sc. Data Science (graduating 2026). RAG agents with LangGraph (bachelor thesis
 **Ops**
 Proxmox homelab, Docker everywhere, self-hosted services with SSO — running things yourself is the fastest way to understand them.
 
-Currently building **Cura** — an agentic plant-care assistant combining RAG, live sensor data and vision.
+**Currently building [Califana](https://califana.com)** — open, local-first hardware for plant care.
+It starts with **Flora**, a soil sensor that measures what actually matters, right at the root: no cloud, no subscription, no throwaway batteries. Solar-powered where it makes sense, and the software is yours to keep.
+
+**Cura** — the agentic plant-care assistant (RAG, live sensor data, vision) — becomes the brain on top of it.
+
+→ [califana.com](https://califana.com)
 
 📍 Germany · Open to Embedded/IoT and AI engineering roles
