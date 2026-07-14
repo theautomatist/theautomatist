@@ -26,7 +26,7 @@ It starts with **Flora**, a soil sensor that measures what actually matters, rig
 
 <div align="center">
 
-`no cloud` · `no subscription` · `built to last` · `open source`
+`no cloud` · `no subscription` · `no telemetry` · `built to last` · `open source`
 
 </div>
 
