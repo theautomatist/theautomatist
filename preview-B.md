@@ -51,9 +51,9 @@ Firmware in C/C++, sub-GHz radio (wM-Bus/OMS), PCB design — from schematic to 
 
 ![Python](https://img.shields.io/badge/Python-060807?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-060807?style=flat-square)
-![CUDA](https://img.shields.io/badge/CUDA-060807?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-060807?style=flat-square)
 
-B.Sc. Data Science (2026). RAG agents for the bachelor thesis, local-first AI on my own hardware.
+B.Sc. Data Science (2026). RAG agents for the bachelor thesis, local-first AI.
 
 </td>
 <td width="33%" valign="top">
@@ -102,7 +102,7 @@ Chrome extension plus a local backend that turns EasyEDA/LCSC components into pr
 
 Push-to-talk dictation that never leaves the machine. Hold a key, speak, the text lands at your cursor — an offline Wispr Flow.
 
-<sub>`faster-whisper` · `CUDA`</sub>
+<sub>`Python` · `faster-whisper`</sub>
 
 </td>
 <td width="50%" valign="top">

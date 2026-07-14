@@ -33,7 +33,7 @@ Practical automation across software and hardware, aimed at real problems.
 |  |  |
 | :--- | :--- |
 | **Embedded / IoT** | ESP32 firmware in C/C++ · sub-GHz radio (wM-Bus/OMS) · PCB design in KiCad |
-| **AI / Data** | B.Sc. Data Science (2026) · RAG agents with LangGraph (bachelor thesis) · local-first AI on my own hardware |
+| **AI / Data** | B.Sc. Data Science (2026) · RAG agents with LangGraph (bachelor thesis) · local-first AI |
 | **Ops** | Proxmox homelab · Docker everywhere · self-hosted services behind SSO |
 
 ## Selected work
@@ -43,7 +43,7 @@ Practical automation across software and hardware, aimed at real problems.
 | **[OMS-Gateway](https://github.com/theautomatist/OMS-Gateway)** | Firmware for a W-MBus/OMS meter gateway — captures telegrams, decodes the link layer, forwards frames to a backend | `ESP32-C3` `CC1101` `C` |
 | **[OMS-Bridge](https://github.com/theautomatist/OMS-Bridge)** | The counterpart: decodes OMS telegrams and publishes them to MQTT, with a small UI for key management | `FastAPI` `MQTT` |
 | **[KiCad-Parts-Importer](https://github.com/theautomatist/KiCad-Parts-Importer)** | Chrome extension + local backend that turns EasyEDA/LCSC parts into KiCad libraries | `JavaScript` `FastAPI` |
-| **[whisper-dictation](https://github.com/theautomatist/whisper-dictation)** | Push-to-talk dictation that never leaves the machine — an offline Wispr Flow | `faster-whisper` `CUDA` |
+| **[whisper-dictation](https://github.com/theautomatist/whisper-dictation)** | Push-to-talk dictation that never leaves the machine — an offline Wispr Flow | `Python` `faster-whisper` |
 | **[whz-lora](https://github.com/theautomatist/whz-lora)** | Self-hosted LoRaWAN base station with a field-measurement cockpit for coverage tests | `ChirpStack` `Docker` |
 | **[homelab](https://github.com/theautomatist/homelab)** | The family cloud on a single Proxmox node — sanitized mirror with deep-dive guides | `Proxmox` `Docker` |
 
