@@ -1,21 +1,82 @@
-# Hi, I'm Carl 👋
+<div align="center">
 
-I build practical automation across software and hardware — the whole chain, from PCB to firmware to backend to AI.
+# Carl Kuhligk
 
-**Embedded / IoT**
-ESP32 firmware in C/C++, sub-GHz radio (wM-Bus/OMS), PCB design in KiCad.
-→ [OMS-Gateway](https://github.com/theautomatist/OMS-Gateway) · [OMS-Bridge](https://github.com/theautomatist/OMS-Bridge) · [whz-lora](https://github.com/theautomatist/whz-lora) · [ESP32C3-RGB-M](https://github.com/theautomatist/ESP32C3-RGB-M)
+### From PCB to firmware to backend to AI — I build the whole chain.
 
-**AI / Data**
-B.Sc. Data Science (graduating 2026). RAG agents with LangGraph (bachelor thesis), local-first AI on my own hardware.
-→ [whisper-dictation](https://github.com/theautomatist/whisper-dictation)
+<sub>Practical automation across software and hardware, aimed at real problems.</sub>
 
-**Ops**
-Proxmox homelab, Docker everywhere, self-hosted services with SSO — running things yourself is the fastest way to understand them.
+![Germany](https://img.shields.io/badge/Germany-3a4640?style=for-the-badge&labelColor=060807)
+![Open to Embedded/IoT & AI roles](https://img.shields.io/badge/open_to-Embedded%2FIoT%20%26%20AI%20roles-4ade80?style=for-the-badge&labelColor=060807)
 
-**Currently building [Califana](https://califana.com)** — open, local-first hardware for plant care.
-It starts with **Flora**, a soil sensor that measures what actually matters, right at the root: no cloud, no subscription, no throwaway batteries. Solar-powered where it makes sense, and the software is yours to keep.
+</div>
 
-**Cura** — the agentic plant-care assistant (RAG, live sensor data, vision) — becomes the brain on top of it.
+<br>
 
-📍 Germany · Open to Embedded/IoT and AI engineering roles
+<div align="center">
+
+## 🌱 Currently building — **[Califana](https://califana.com)**
+
+**Open, local-first hardware for plant care.**
+
+</div>
+
+It starts with **Flora**, a soil sensor that measures what actually matters, right at the root: no cloud, no subscription, no throwaway batteries. Solar-powered where it makes sense, and the software is yours to keep. **Cura** — the agentic plant-care assistant (RAG, live sensor data, vision) — becomes the brain on top of it.
+
+<div align="center">
+
+`no cloud` · `no subscription` · `no telemetry` · `built to last` · `open source`
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Embedded / IoT
+
+![C](https://img.shields.io/badge/C%2FC%2B%2B-060807?style=flat-square)
+![ESP32](https://img.shields.io/badge/ESP32-060807?style=flat-square)
+![KiCad](https://img.shields.io/badge/KiCad-060807?style=flat-square)
+
+Firmware in C/C++, sub-GHz radio (wM-Bus/OMS), PCB design — from schematic to a board that ships.
+
+</td>
+<td width="33%" valign="top">
+
+### AI / Data
+
+![Python](https://img.shields.io/badge/Python-060807?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-060807?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-060807?style=flat-square)
+
+B.Sc. Data Science (2026). RAG agents for the bachelor thesis, local-first AI.
+
+</td>
+<td width="33%" valign="top">
+
+### Ops
+
+![Proxmox](https://img.shields.io/badge/Proxmox-060807?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-060807?style=flat-square)
+![nginx](https://img.shields.io/badge/nginx-060807?style=flat-square)
+
+A Proxmox homelab running the family cloud behind SSO. Running things yourself is the fastest way to understand them.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<sub>**Below:** meter gateways that read what utilities won't share, a LoRaWAN base station, tooling that fixes my own workflow.<br>The OMS pair is one system — [Gateway](https://github.com/theautomatist/OMS-Gateway) is the firmware, [Bridge](https://github.com/theautomatist/OMS-Bridge) the backend it talks to.</sub>
+
+<br>
+
+<sub>📍 Germany · Open to Embedded/IoT and AI engineering roles</sub>
+
+</div>
