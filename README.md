@@ -18,6 +18,4 @@ It starts with **Flora**, a soil sensor that measures what actually matters, rig
 
 **Cura** — the agentic plant-care assistant (RAG, live sensor data, vision) — becomes the brain on top of it.
 
-→ [califana.com](https://califana.com)
-
 📍 Germany · Open to Embedded/IoT and AI engineering roles
