@@ -6,9 +6,8 @@
 
 <sub>Practical automation across software and hardware, aimed at real problems.</sub>
 
-[![califana.com](https://img.shields.io/badge/califana.com-4ade80?style=for-the-badge&labelColor=060807)](https://califana.com)
 ![Germany](https://img.shields.io/badge/Germany-3a4640?style=for-the-badge&labelColor=060807)
-![Open to Embedded/IoT & AI roles](https://img.shields.io/badge/open_to-Embedded%2FIoT%20%26%20AI%20roles-e9e3d1?style=for-the-badge&labelColor=060807)
+![Open to Embedded/IoT & AI roles](https://img.shields.io/badge/open_to-Embedded%2FIoT%20%26%20AI%20roles-4ade80?style=for-the-badge&labelColor=060807)
 
 </div>
 
